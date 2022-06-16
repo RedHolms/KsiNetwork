@@ -1,0 +1,9 @@
+# ide files
+.vs
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# project's folders
+temp
+out
